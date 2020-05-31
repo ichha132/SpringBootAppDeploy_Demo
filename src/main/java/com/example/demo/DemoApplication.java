@@ -12,7 +12,7 @@ import java.util.Map;
 
 @SpringBootApplication
 
-public class DemoApplication extends SpringBootServletInitializer
+public class DemoApplication 
 {
 //   @Override
 //   protected SpringApplicationBuilder configure(SpringApplicationBuilder application)
